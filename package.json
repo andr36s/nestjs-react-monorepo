@@ -12,5 +12,10 @@
   "workspaces": [
     "apps/*"
   ],
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "turbo": "^2.5.4"
+  }
 }
